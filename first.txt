@@ -1,3 +1,5 @@
 gitの練習
 
 練習で、コミット、プッシュしてみました
+git add
+git commit
