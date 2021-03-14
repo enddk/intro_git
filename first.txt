@@ -3,5 +3,6 @@ gitの練習
 練習で、コミット、プッシュしてみました
 git add
 git commit
+git rm
+git status
 
-new practice
